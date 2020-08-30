@@ -1,5 +1,10 @@
 # Chat Example
+<<<<<<< HEAD
 append feature
+=======
+append dev5
+This application shows how to use the
+>>>>>>> 0c4ae3e7b51ecbcca8d0a298aac9a4d2ebe73135
 [websocket](https://github.com/gorilla/websocket) package to implement a simple
 web chat application.
 
