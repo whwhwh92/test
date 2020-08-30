@@ -1,5 +1,5 @@
 # Chat Example
-append feature
+append feature1:1
 [websocket](https://github.com/gorilla/websocket) package to implement a simple
 web chat application.
 
